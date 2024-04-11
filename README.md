@@ -9,7 +9,7 @@ The Blackjack Game simulates the experience of playing Blackjack in a real casin
 ## How to Play
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/blackjack-game.git
+git clone https://github.com/rajeshchau/black-jack.git
 
 markdown
 Copy code
